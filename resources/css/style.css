@@ -62,3 +62,12 @@ ul {
   display: block;
   margin: 0 auto;
 }
+
+.footer {
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+  color: white;
+}
