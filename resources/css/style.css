@@ -36,6 +36,10 @@ a {
   color: inherit;
 }
 
+li {
+  padding-top: 10px;
+}
+
 
 #header {
   background-image: url("../images/the-flatiron-building.png");
