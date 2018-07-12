@@ -32,6 +32,10 @@ ul {
   font-size: 18px;
 }
 
+a {
+  color: inherit;
+}
+
 
 #header {
   background-image: url("../images/the-flatiron-building.png");
