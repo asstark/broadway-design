@@ -33,18 +33,18 @@ ul {
 }
 
 
-.header {
+#header {
   background-image: url("../images/the-flatiron-building.png");
   text-align: center;
 }
 
-.process {
+#process {
   text-align: center;
   display: block;
   margin: 0 auto;
 }
 
-.designed {
+#designed {
   background-image: url("../images/the-flatiron-building.png");
   text-align: center;
   display: block;
@@ -57,13 +57,13 @@ ul {
   color: white;
 }
 
-.contact {
+#contact {
   text-align: center;
   display: block;
   margin: 0 auto;
 }
 
-.footer {
+#footer {
   background-color: dimgray;
 }
 
