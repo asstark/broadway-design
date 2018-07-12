@@ -9,6 +9,17 @@ h1 {
   color: white;
 }
 
+ul {
+  list-style-type: none;
+}
+
+.nav {
+  color: white;
+  font-size: 18px;
+}
+
+
 .header {
   background-image: url("../images/the-flatiron-building.png");
+  text-align: center;
 }
